@@ -11,10 +11,10 @@ Install
 -------
 
 This package depends on google-perftools (package google-perftools in
-Debian). Once you have fulfilled these depencies you can install it
-with easy_install::
+Debian/Ubuntu). Once you have installed this dependency you can install yep
+with pip::
 
-    $ easy_install -U yep
+    $ pip install -U yep
 
 or download the package, uncompress and execute the standard command::
 
